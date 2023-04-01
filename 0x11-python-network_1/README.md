@@ -1,7 +1,6 @@
 # Python - Network #1
 
-
-![width = 1000px](https://imgs.search.brave.com/c9pjztf6GlCVEnNWuojOGClRYT6pRINAFeNNJbjK3qI/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5a/RDNVUm8tcmdXZldh/a3dzay1vNk1RSGFF/NyZwaWQ9QXBp)
+![width = 2000px](https://imgs.search.brave.com/c9pjztf6GlCVEnNWuojOGClRYT6pRINAFeNNJbjK3qI/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5a/RDNVUm8tcmdXZldh/a3dzay1vNk1RSGFF/NyZwaWQ9QXBp)
 
 ## Learning Objectives
 
