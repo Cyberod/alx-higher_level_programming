@@ -1,7 +1,7 @@
 # Python - Network #1
 
 ![](https://sf.ezoiccdn.com/ezoimgfmt/networkencyclopedia.com/wp-content/uploads/2019/08/computer-networking-1.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1)
-![](https://www.virtuenetz.pk/wp-content/uploads/2019/02/network-services.jpg height=1000px length=500px)
+![](https://imgs.search.brave.com/HLm1MHcO5vfVVUYQrZRlTb7NzVO4SmxfvnlzUZHUhRo/rs:fit:1378:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5U/UUJkQlBkSUdHSHZa/SUtCWE5fcnJBQUFB/QSZwaWQ9QXBp)
 
 ## Learning Objectives
 
